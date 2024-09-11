@@ -13,7 +13,7 @@ NanoBPE is an imitation of [micrograd](https://github.com/karpathy/micrograd), d
 NanoBPE is still under development and hasn't been packaged for PyPI yet. To use it, you'll need to clone the repository and append the project directory to your Python path.
 
 ```bash
-git clone https://github.com/yourusername/nanobpe.git
+git clone https://github.com/ickma/nanobpe.git
 ```
 
 ## Usage
